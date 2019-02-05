@@ -1,0 +1,25 @@
+{
+  "name": "angular-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1",
+    "bundle": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maulanauls/AngularJS-webpack"
+  },
+  "keywords": [],
+  "author": "maulanauls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maulanauls/AngularJS-webpack/issues"
+  },
+  "homepage": "https://github.com/maulanauls/AngularJS-webpack#readme",
+  "devDependencies": {
+    "angular": "^1.7.7",
+    "webpack": "^1.15.0"
+  }
+}
