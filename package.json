@@ -20,6 +20,6 @@
   "homepage": "https://github.com/maulanauls/AngularJS-webpack#readme",
   "devDependencies": {
     "angular": "^1.7.8",
-    "webpack": "^4.37.0"
+    "webpack": "^5.75.0"
   }
 }
